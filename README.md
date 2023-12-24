@@ -18,4 +18,4 @@ Bu typefed structure ile tanımladığımız yerde structure adı ve bir takma a
 Bu değişken içerisinde ürün adı,ürün fiyatı,teklif veren no,en yüksek teklif adında özellikler vardır.
 Bu değişkenle birlikte tek bir fonksiyonla tüm özellikleri aynı yerde kullanabiliyoruz.
 
-Ekran çıktıları issues kısmına yükledim.Kod 2.dosyada açık şekilde gözüküyor.
+Ekran çıktıları issues kısmına yükledim.Arttırma Kodu ise 2.dosyada açık şekilde gözüküyor.
